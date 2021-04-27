@@ -1,4 +1,4 @@
-# Finance_Analisis_Stock
+# Finance_Analysis_Stock
 
 Monetary modeling is the method of making a rundown of a company's expenses and profit within the shape of a spreadsheet 
 that can be utilized to calculate the affect of a future occasion or decision.  A budgetary demonstrate has numerous 
